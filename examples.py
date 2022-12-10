@@ -16,3 +16,6 @@ num1 = input('Enter your number ')
 num2 = input('Enter another number ')
 result = int(num1) + int(num2)
 print('The result is ', result)
+
+guess = input("Guess the number ")
+number = 4
